@@ -1,35 +1,14 @@
-# food-truck
+# Food-Truckin-With-Matty
+This is my way of helping people find amazing food trucks track down.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Development still in progress
 
-## Recommended IDE Setup
+## Wireframes & Models
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## App Screenshots
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## Technologies used
+- Vue.js
+- Express
+- Node.js
+- MongoDB / Mongoose
